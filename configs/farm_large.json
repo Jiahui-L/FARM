@@ -1,0 +1,20 @@
+{
+  "arm_shape": [
+    24,
+    512,
+    512
+  ],
+  "patch_shape": [
+    2,
+    32,
+    32
+  ],
+  "input_channels": 4,
+  "hidden_dim": 768,
+  "radio_encoder_depth": 10,
+  "map_decoder_depth": 8,
+  "attention_heads": 8,
+  "ffn_expansion_ratio": 4.0,
+  "use_global_token": true,
+  "use_embedding_bottleneck": false
+}

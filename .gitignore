@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+.pytest_cache/
+.ruff_cache/
+weights/
+data/
+outputs/
+*.pt
+*.pth
+*.pkl
+*.npy
+!farm/antenna_patterns/*.npy
+*.npz
+*.zip
+events.out.tfevents.*
