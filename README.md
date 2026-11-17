@@ -1,8 +1,6 @@
 <div align="center">
 
-# 📡 FARM
-
-**Foundational Aerial Radio Map for Intelligent Low-Altitude Networking**
+# 📡 FARM：**Foundational Aerial Radio Map for Intelligent Low-Altitude Networking**
 
 [![Paper](https://img.shields.io/badge/arXiv-2604.17362-B31B1B?style=flat-square)](https://arxiv.org/abs/2604.17362)
 [![Model Weights](https://img.shields.io/badge/Hugging%20Face-Model%20Weights-FFD21E?style=flat-square)](https://huggingface.co/jliang097/FARM)
